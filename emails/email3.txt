@@ -1,0 +1,59 @@
+Subject: Action Required: Pending Payment for Your Subscription Renewal
+
+Dear [Customer Name],
+
+We hope this message finds you well. This is a friendly reminder regarding the pending payment for your subscription renewal, which is scheduled to be processed in the coming days. Our records indicate that the payment has not yet been received for the upcoming billing cycle, and we kindly request your immediate attention to avoid any interruption in service.
+
+Payment Details  
+- Invoice Number: 123456789  
+- Amount Due: $99.99  
+- Due Date: [Date]  
+- Service Period: [Start Date] to [End Date]  
+- Payment Methods Accepted: Credit/Debit Card, PayPal, Bank Transfer
+
+Please note that your subscription will automatically renew if the payment is received before the due date. In case the payment is not processed by the deadline, we may temporarily suspend access to your account until the outstanding balance is cleared. We understand that these matters are sometimes overlooked, so if you have already made the payment, please disregard this reminder. 
+
+How to Make a Payment  
+To make a payment, simply log in to your account on our website and navigate to the “Billing” section. From there, you can review your invoice, update your payment method, and complete the transaction securely. Should you experience any issues while making the payment, our support team is available to assist you. 
+
+- Log In to Your Account: [Account URL]  
+- Support Contact: support@[companyname].com
+
+We also offer various payment plans to make things more convenient for you. If you prefer to switch to a different payment plan, please reach out to us, and we’ll guide you through the process. The available plans include:
+1. Monthly – Pay on a monthly basis.
+2. Quarterly – Pay every three months.
+3. Annually – Pay once a year and save 10%.
+
+Account Enrollment Information  
+If you are looking to modify your subscription plan or upgrade to a higher service level, please let us know. We offer different packages to meet a variety of needs. Our premium plan includes exclusive benefits such as:
+- Access to premium customer support
+- Additional storage space
+- Priority processing for billing inquiries
+
+To learn more about our packages or make changes to your plan, you can visit our [Plans and Pricing Page].
+
+Billing Contact Information  
+For any billing-related questions, please don’t hesitate to reach out to our dedicated billing department. We are available Monday through Friday, from 9:00 AM to 6:00 PM, and we are committed to resolving any payment issues promptly.
+
+- Billing Support Email: billing@[companyname].com  
+- Phone Number: +1 (800) 123-4567  
+- Business Hours: Monday to Friday, 9:00 AM - 6:00 PM (EST)
+
+If you believe you’ve received this email in error or if you have any questions regarding your subscription renewal or billing details, please contact us immediately, and we will be happy to assist you.
+
+Security Reminder  
+We take the security of your payment information very seriously. Our website uses SSL encryption to protect your sensitive data during the payment process. We encourage you to verify that you are on the correct website before entering any payment details.
+
+We appreciate your prompt attention to this matter and look forward to continuing to serve you. Your satisfaction is our top priority, and we are here to ensure your experience is seamless and hassle-free.
+
+Thank you for being a valued customer.
+
+Best regards,  
+[Your Name]  
+Customer Service Team  
+[Company Name]  
+[Company Address]  
+[Company Phone Number]  
+[Company Email Address]  
+[Company Website URL]
+
